@@ -10,4 +10,4 @@ Aprendiendo a usar GitHub
 
 # Ejercicio N°3
 
-Haciendo commit's 
+Acá commitiando :)  
